@@ -4,14 +4,13 @@ Datasets that are hosted CSVs can be easily managed using the [CSV-to-API instru
 
 ## APIs 
 
-Original Data: http://www.whitehouse.gov/assets/documents/FHWA_Recovery_200.csv
-CSV-to-API: http://labs.data.gov/csv-to-api/?source=http://www.whitehouse.gov/assets/documents/FHWA_Recovery_200.csv&source_format=csv
-Databeam:  http://labs.data.gov/databeam/gbinal/fhwa-recovery-200
+* Original Data: http://www.whitehouse.gov/assets/documents/FHWA_Recovery_200.csv
+* CSV-to-API: http://labs.data.gov/csv-to-api/?source=http://www.whitehouse.gov/assets/documents/FHWA_Recovery_200.csv&source_format=csv
+* Databeam:  http://labs.data.gov/databeam/gbinal/fhwa-recovery-200
 
-
-Original Data: https://www.osha.gov/dep/fatcat/FatalitiesFY10.csv
-CSV-to-API: http://labs.data.gov/csv-to-api/?source=https://www.osha.gov/dep/fatcat/FatalitiesFY10.csv&source_format=csv
-Databeam:  http://labs.data.gov/databeam/gbinal/fatalitiesfy10
+* Original Data: https://www.osha.gov/dep/fatcat/FatalitiesFY10.csv
+* CSV-to-API: http://labs.data.gov/csv-to-api/?source=https://www.osha.gov/dep/fatcat/FatalitiesFY10.csv&source_format=csv
+* Databeam:  http://labs.data.gov/databeam/gbinal/fatalitiesfy10
 
 
 
